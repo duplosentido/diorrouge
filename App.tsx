@@ -1,7 +1,7 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import ProductDetail from './components/ProductDetail';
-import BeautyAI from './components/BeautyAI';
+import Navbar from './Navbar';
+import ProductDetail from './ProductDetail';
+import BeautyAI from './BeautyAI';
 
 const App: React.FC = () => {
   return (
